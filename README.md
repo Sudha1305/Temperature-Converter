@@ -15,3 +15,7 @@ Conditional statements are used to determine the correct formula, and .upper() e
 The program also includes a user interface where the user is prompted to enter the temperature and unit.
 
 The converted temperature is then displayed on the screen.
+
+**OUTPUT:**
+
+<img width="1224" height="572" alt="Image" src="https://github.com/user-attachments/assets/d51245c0-5891-4b3c-b34d-f4227390be9f" />
